@@ -1,7 +1,7 @@
 * Manuel Cardenas
 * Andres Toledo
 * Bryan Ariza
-* Juan Wilches
+
 
 
 1. Introduccion:
