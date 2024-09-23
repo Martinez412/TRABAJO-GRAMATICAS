@@ -1,0 +1,7 @@
+A -> A B D d
+B -> lambda
+C -> lambda
+D -> d
+
+
+
